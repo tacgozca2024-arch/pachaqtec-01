@@ -1,0 +1,76 @@
+/*
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #e5e5e5;
+}
+
+.header {
+    background-color: #2aa7ad;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 60px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.header h2 {
+    margin: 5px 0 0;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+
+.foto img {
+    width: 120px;
+    height: 120px;
+    background: #ccc;
+}
+
+/* CONTENEDOR PRINCIPAL 
+.container {
+    display: flex;
+    padding: 50px 60px;
+    gap: 60px;
+}
+
+/* COLUMNAS 
+.left {
+    width: 40%;
+}
+
+.right {
+    width: 60%;
+}
+
+/* TITULOS 
+h3 {
+    color: #f26c21;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+/* TEXTO 
+p {
+    line-height: 1.5;
+    margin: 5px 0;
+}
+
+.descripcion {
+    margin: 20px 0;
+}
+
+.job {
+    margin-bottom: 30px;
+}
+
+*/
